@@ -124,7 +124,7 @@ export class TodoList extends Component {
               <div key={todoItem.id} style={{ color: "white" }}>
                 <table align="center">
                   <td>{pos + 1}</td>
-                  <td style={{ width: "400px" }}>
+                  <td style={{ width: "300px" }}>
                     <span
                       onClick={() => this.toggleComplete(todoItem.id)}
                       style={{
