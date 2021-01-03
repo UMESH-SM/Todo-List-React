@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #2c2e2d;
+  min-height: 100vh;
+  color: aliceblue;
+}
+
+table,
+td {
+  border: 1px solid rgb(128, 126, 126);
+}
+
+td {
+  width: 30px;
+}
